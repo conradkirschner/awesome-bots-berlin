@@ -8,7 +8,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ### Covid Related  
 - [impfstoff.bot](https://github.com/guicheffer/impfstoff.bot)
 - [berlin corona cases](https://github.com/knudmoeller/berlin_corona_cases)
-- [https://github.com/DerLobi/VaccinationMonitor](VaccinationMonitor)
+- [VaccinationMonitor](https://github.com/DerLobi/VaccinationMonitor)
 - [berlin-impfstoff-jaeger](https://github.com/eltalkarim/berlin-impfstoff-jaeger)
 
 ### Flats  
