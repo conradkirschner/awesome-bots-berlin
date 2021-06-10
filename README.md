@@ -18,6 +18,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [menstruation-telegram](https://github.com/kmein/menstruation-telegram)
 - [eschen-bot](https://github.com/derhuerst/eschen-bot)
     
+    
+## Human Bots (Collaborative) 
+- [queue-spy](https://github.com/rafaelfcsouza/queue-spy)
+
+
 ## Chat Bots
 - [covidbot](https://github.com/eknoes/covidbot)
 
