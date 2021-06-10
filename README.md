@@ -47,7 +47,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 Your contributions are always welcome! Please create a Pull Request :) *Awesome*
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/conradkirschner/awesome-bots-berlin/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/conradkirschner/awesome-bots-berlin/pulls) by adding :+1: to them. Pull requests will be merged when they get votes 
 
 - - -
 In anycase of Contact just create a Issue, I will try to respond soon!
