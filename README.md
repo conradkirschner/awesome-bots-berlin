@@ -20,6 +20,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents)
 - [berghain](https://github.com/ewenme/berghain)
 - [ourkino](https://github.com/diurnalist/ourkino)
+- [vbb-disruptions](https://github.com/derhuerst/vbb-disruptions)
     
     
 ## Human Bots (Collaborative) 
