@@ -17,7 +17,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents)
 
 ### News
-- [berlinglish](https://github.com/viniciuskneves/berlinglish) *news from Berlin.de to Twitter
+- [berlinglish](https://github.com/viniciuskneves/berlinglish) - news from Berlin.de to Twitter
 
 ### Jobs
 - [berlin-startup-jobs-analyzer](https://github.com/dstoianov/berlin-startup-jobs-analyzer)
