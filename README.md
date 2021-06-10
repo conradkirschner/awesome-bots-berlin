@@ -19,6 +19,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [eschen-bot](https://github.com/derhuerst/eschen-bot)
 - [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents)
 - [berghain](https://github.com/ewenme/berghain)
+- [ourkino](https://github.com/diurnalist/ourkino)
     
     
 ## Human Bots (Collaborative) 
