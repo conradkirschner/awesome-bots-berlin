@@ -4,11 +4,12 @@ A curated list of awesome Bots that help People in Berlin
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
-## Web Scrapper Bots
+## automated Bots
 - [impfstoff.bot](https://github.com/guicheffer/impfstoff.bot)
 - [berlin-apartments-lambda-public](https://github.com/AvraamMavridis/berlin-apartments-lambda-public)
 - [Berlin Service Termin](https://github.com/inverse/termin)
-- [berlin_corona_cases](https://github.com/knudmoeller/berlin_corona_cases)
+- [berlin corona cases](https://github.com/knudmoeller/berlin_corona_cases)
+- [vbb-telegram](https://github.com/derhuerst/vbb-telegram)
     
 ## Chat Bots
 - [covidbot](https://github.com/eknoes/covidbot)
