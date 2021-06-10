@@ -4,23 +4,33 @@ A curated list of awesome Bots that help People in Berlin
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
-## automated Bots
+## automated Bots  
+### Covid Related  
 - [impfstoff.bot](https://github.com/guicheffer/impfstoff.bot)
+- [berlin corona cases](https://github.com/knudmoeller/berlin_corona_cases)
+- [https://github.com/DerLobi/VaccinationMonitor](VaccinationMonitor)
+- [berlin-impfstoff-jaeger](https://github.com/eltalkarim/berlin-impfstoff-jaeger)
+- 
+### Flats  
 - [berlin-apartments-lambda-public](https://github.com/AvraamMavridis/berlin-apartments-lambda-public)
+- [flatcrawler](https://github.com/grandchild/flatcrawler)
+- [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents)
+
+## News
+- [berlinglish](https://github.com/viniciuskneves/berlinglish) *news from Berlin.de to Twitter
+
+### Public Services  
 - [Berlin Service Termin](https://github.com/inverse/termin)
 - [berlin anmeldung scrapper](https://github.com/dgmora/berlin_anmeldung_scrapper)
-- [berlin corona cases](https://github.com/knudmoeller/berlin_corona_cases)
 - [vbb-telegram](https://github.com/derhuerst/vbb-telegram)
-- [berlinglish](https://github.com/viniciuskneves/berlinglish) *news from Berlin.de to Twitter
 - [sbahn-berlin-tweets](https://github.com/derhuerst/sbahn-berlin-tweets)
-- [https://github.com/DerLobi/VaccinationMonitor](VaccinationMonitor)
-- [flatcrawler](https://github.com/grandchild/flatcrawler)
+- [vbb-disruptions](https://github.com/derhuerst/vbb-disruptions)
+
+### Others  
 - [menstruation-telegram](https://github.com/kmein/menstruation-telegram)
 - [eschen-bot](https://github.com/derhuerst/eschen-bot)
-- [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents)
 - [berghain](https://github.com/ewenme/berghain)
 - [ourkino](https://github.com/diurnalist/ourkino)
-- [vbb-disruptions](https://github.com/derhuerst/vbb-disruptions)
     
     
 ## Human Bots (Collaborative) 
