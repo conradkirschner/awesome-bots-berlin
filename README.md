@@ -16,6 +16,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [https://github.com/DerLobi/VaccinationMonitor](VaccinationMonitor)
 - [flatcrawler](https://github.com/grandchild/flatcrawler)
 - [menstruation-telegram](https://github.com/kmein/menstruation-telegram)
+- [eschen-bot](https://github.com/derhuerst/eschen-bot)
     
 ## Chat Bots
 - [covidbot](https://github.com/eknoes/covidbot)
