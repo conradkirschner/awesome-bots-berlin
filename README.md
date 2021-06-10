@@ -16,7 +16,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [flatcrawler](https://github.com/grandchild/flatcrawler)
 - [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents)
 
-## News
+### News
 - [berlinglish](https://github.com/viniciuskneves/berlinglish) *news from Berlin.de to Twitter
 
 ### Public Services  
