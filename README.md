@@ -19,6 +19,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ### News
 - [berlinglish](https://github.com/viniciuskneves/berlinglish) *news from Berlin.de to Twitter
 
+### Jobs
+- [berlin-startup-jobs-analyzer](https://github.com/dstoianov/berlin-startup-jobs-analyzer)
+
 ### Public Services  
 - [Berlin Service Termin](https://github.com/inverse/termin)
 - [berlin anmeldung scrapper](https://github.com/dgmora/berlin_anmeldung_scrapper)
@@ -32,15 +35,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [eschen-bot](https://github.com/derhuerst/eschen-bot)
 - [berghain](https://github.com/ewenme/berghain)
 - [ourkino](https://github.com/diurnalist/ourkino)
-    
-    
+ 
 ## Human Bots (Collaborative) 
 - [queue-spy](https://github.com/rafaelfcsouza/queue-spy)
 - [isberlinhappy](https://github.com/jdennes/isberlinhappy)
 
 ## Chat Bots
 - [covidbot](https://github.com/eknoes/covidbot)
-
 
 # Contributing
 
