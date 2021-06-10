@@ -18,6 +18,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [menstruation-telegram](https://github.com/kmein/menstruation-telegram)
 - [eschen-bot](https://github.com/derhuerst/eschen-bot)
 - [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents)
+- [berghain](https://github.com/ewenme/berghain)
     
     
 ## Human Bots (Collaborative) 
