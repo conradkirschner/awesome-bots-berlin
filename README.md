@@ -8,6 +8,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [impfstoff.bot](https://github.com/guicheffer/impfstoff.bot)
 - [berlin-apartments-lambda-public](https://github.com/AvraamMavridis/berlin-apartments-lambda-public)
 - [Berlin Service Termin](https://github.com/inverse/termin)
+- [berlin anmeldung scrapper](https://github.com/dgmora/berlin_anmeldung_scrapper)
 - [berlin corona cases](https://github.com/knudmoeller/berlin_corona_cases)
 - [vbb-telegram](https://github.com/derhuerst/vbb-telegram)
 - [berlinglish](https://github.com/viniciuskneves/berlinglish) *news from Berlin.de to Twitter
