@@ -10,7 +10,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [berlin corona cases](https://github.com/knudmoeller/berlin_corona_cases)
 - [https://github.com/DerLobi/VaccinationMonitor](VaccinationMonitor)
 - [berlin-impfstoff-jaeger](https://github.com/eltalkarim/berlin-impfstoff-jaeger)
-- 
+
 ### Flats  
 - [berlin-apartments-lambda-public](https://github.com/AvraamMavridis/berlin-apartments-lambda-public)
 - [flatcrawler](https://github.com/grandchild/flatcrawler)
