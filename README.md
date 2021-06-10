@@ -7,6 +7,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Bots
 - [impfstoff.bot](https://github.com/guicheffer/impfstoff.bot)
 - [berlin-apartments-lambda-public](https://github.com/AvraamMavridis/berlin-apartments-lambda-public)
+- [Berlin Service Termin](https://github.com/inverse/termin)
     
 ## Chat Bots
 - [covidbot](https://github.com/eknoes/covidbot)
