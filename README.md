@@ -12,6 +12,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [berlin corona cases](https://github.com/knudmoeller/berlin_corona_cases)
 - [vbb-telegram](https://github.com/derhuerst/vbb-telegram)
 - [berlinglish](https://github.com/viniciuskneves/berlinglish) *news from Berlin.de to Twitter
+- [sbahn-berlin-tweets](https://github.com/derhuerst/sbahn-berlin-tweets)
     
 ## Chat Bots
 - [covidbot](https://github.com/eknoes/covidbot)
