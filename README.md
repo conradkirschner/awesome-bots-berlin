@@ -22,7 +22,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     
 ## Human Bots (Collaborative) 
 - [queue-spy](https://github.com/rafaelfcsouza/queue-spy)
-
+- [isberlinhappy](https://github.com/jdennes/isberlinhappy)
 
 ## Chat Bots
 - [covidbot](https://github.com/eknoes/covidbot)
