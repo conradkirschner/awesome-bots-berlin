@@ -25,6 +25,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [vbb-telegram](https://github.com/derhuerst/vbb-telegram)
 - [sbahn-berlin-tweets](https://github.com/derhuerst/sbahn-berlin-tweets)
 - [vbb-disruptions](https://github.com/derhuerst/vbb-disruptions)
+- [vbb-parse-ticket](https://github.com/derhuerst/vbb-parse-ticket)
 
 ### Others  
 - [menstruation-telegram](https://github.com/kmein/menstruation-telegram)
