@@ -2,8 +2,6 @@
 
 A curated list of awesome Bots that help People in Berlin
 
-Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
-
 ## automated Bots  
 ### Covid Related  
 - [impfstoff.bot](https://github.com/guicheffer/impfstoff.bot)
@@ -29,6 +27,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [sbahn-berlin-tweets](https://github.com/derhuerst/sbahn-berlin-tweets)
 - [vbb-disruptions](https://github.com/derhuerst/vbb-disruptions)
 - [vbb-parse-ticket](https://github.com/derhuerst/vbb-parse-ticket)
+- [berlin-bot](https://github.com/nicbou/berlin-bot)
 
 ### Others  
 - [menstruation-telegram](https://github.com/kmein/menstruation-telegram)
