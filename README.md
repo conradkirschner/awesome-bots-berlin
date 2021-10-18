@@ -27,6 +27,8 @@ A curated list of awesome Bots that help People in Berlin
 - [sbahn-berlin-tweets](https://github.com/derhuerst/sbahn-berlin-tweets)
 - [vbb-disruptions](https://github.com/derhuerst/vbb-disruptions)
 - [vbb-parse-ticket](https://github.com/derhuerst/vbb-parse-ticket)
+
+### Question and Answers
 - [berlin-bot](https://github.com/nicbou/berlin-bot)
 
 ### Others  
