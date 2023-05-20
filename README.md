@@ -12,6 +12,7 @@ A curated list of awesome Bots that help People in Berlin
 ### Flats  
 - [berlin-apartments-lambda-public](https://github.com/AvraamMavridis/berlin-apartments-lambda-public)
 - [flatcrawler](https://github.com/grandchild/flatcrawler)
+- [flathunter](https://github.com/flathunters/flathunter)
 - [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents)
 
 ### News
