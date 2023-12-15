@@ -22,6 +22,7 @@ A curated list of awesome Bots that help People in Berlin
 - [berlin-startup-jobs-analyzer](https://github.com/dstoianov/berlin-startup-jobs-analyzer)
 
 ### Public Services  
+- [Berlin registered protests](https://github.com/Mamdasn/telegram-bot-protests-in-berlin)
 - [Berlin Service Termin](https://github.com/inverse/termin)
 - [berlin anmeldung scrapper](https://github.com/dgmora/berlin_anmeldung_scrapper)
 - [vbb-telegram](https://github.com/derhuerst/vbb-telegram)
