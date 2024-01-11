@@ -3,11 +3,6 @@
 A curated list of awesome Bots that help People in Berlin
 
 ## automated Bots  
-### Covid Related  
-- [impfstoff.bot](https://github.com/guicheffer/impfstoff.bot)
-- [berlin corona cases](https://github.com/knudmoeller/berlin_corona_cases)
-- [VaccinationMonitor](https://github.com/DerLobi/VaccinationMonitor)
-- [berlin-impfstoff-jaeger](https://github.com/eltalkarim/berlin-impfstoff-jaeger)
 
 ### Flats  
 - [berlin-apartments-lambda-public](https://github.com/AvraamMavridis/berlin-apartments-lambda-public)
@@ -29,6 +24,12 @@ A curated list of awesome Bots that help People in Berlin
 - [sbahn-berlin-tweets](https://github.com/derhuerst/sbahn-berlin-tweets)
 - [vbb-disruptions](https://github.com/derhuerst/vbb-disruptions)
 - [vbb-parse-ticket](https://github.com/derhuerst/vbb-parse-ticket)
+- 
+### Covid Related  
+- [impfstoff.bot](https://github.com/guicheffer/impfstoff.bot)
+- [berlin corona cases](https://github.com/knudmoeller/berlin_corona_cases)
+- [VaccinationMonitor](https://github.com/DerLobi/VaccinationMonitor) [ARCHIVED]
+- [berlin-impfstoff-jaeger](https://github.com/eltalkarim/berlin-impfstoff-jaeger)
 
 ### Question and Answers
 - [berlin-bot](https://github.com/nicbou/berlin-bot)
