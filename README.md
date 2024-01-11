@@ -24,7 +24,7 @@ A curated list of awesome Bots that help People in Berlin
 - [sbahn-berlin-tweets](https://github.com/derhuerst/sbahn-berlin-tweets)
 - [vbb-disruptions](https://github.com/derhuerst/vbb-disruptions)
 - [vbb-parse-ticket](https://github.com/derhuerst/vbb-parse-ticket)
-- 
+
 ### Covid Related  
 - [impfstoff.bot](https://github.com/guicheffer/impfstoff.bot)
 - [berlin corona cases](https://github.com/knudmoeller/berlin_corona_cases)
