@@ -9,6 +9,7 @@ A curated list of awesome Bots that help People in Berlin
 - [flatcrawler](https://github.com/grandchild/flatcrawler)
 - [flathunter](https://github.com/flathunters/flathunter)
 - [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents)
+- [Hypofriend Telegram bot](https://hypofriend.de/en/lp/immofriend)
 
 ### News
 - [berlinglish](https://github.com/viniciuskneves/berlinglish) - news from Berlin.de to Twitter
@@ -17,6 +18,7 @@ A curated list of awesome Bots that help People in Berlin
 - [berlin-startup-jobs-analyzer](https://github.com/dstoianov/berlin-startup-jobs-analyzer)
 
 ### Public Services  
+- [Anmeldung appointment finder](https://allaboutberlin.com/tools/appointment-finder) and [source code](https://github.com/nicbou/burgeramt-appointments-websockets)
 - [Berlin registered protests](https://github.com/Mamdasn/telegram-bot-protests-in-berlin)
 - [Berlin Service Termin](https://github.com/inverse/termin)
 - [berlin anmeldung scrapper](https://github.com/dgmora/berlin_anmeldung_scrapper)
@@ -25,14 +27,8 @@ A curated list of awesome Bots that help People in Berlin
 - [vbb-disruptions](https://github.com/derhuerst/vbb-disruptions)
 - [vbb-parse-ticket](https://github.com/derhuerst/vbb-parse-ticket)
 
-### Covid Related  
-- [impfstoff.bot](https://github.com/guicheffer/impfstoff.bot)
-- [berlin corona cases](https://github.com/knudmoeller/berlin_corona_cases)
-- [VaccinationMonitor](https://github.com/DerLobi/VaccinationMonitor) [ARCHIVED]
-- [berlin-impfstoff-jaeger](https://github.com/eltalkarim/berlin-impfstoff-jaeger)
-
 ### Question and Answers
-- [berlin-bot](https://github.com/nicbou/berlin-bot)
+- [berlin-bot for Reddit](https://github.com/nicbou/berlin-bot)
 
 ### Others  
 - [menstruation-telegram](https://github.com/kmein/menstruation-telegram)
