@@ -9,7 +9,6 @@ A curated list of awesome Bots that help People in Berlin
 - [flatcrawler](https://github.com/grandchild/flatcrawler)
 - [flathunter](https://github.com/flathunters/flathunter)
 - [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents)
-- [Hypofriend Telegram bot](https://hypofriend.de/en/lp/immofriend)
 
 ### News
 - [berlinglish](https://github.com/viniciuskneves/berlinglish) - news from Berlin.de to Twitter
