@@ -18,6 +18,7 @@ A curated list of awesome Bots that help People in Berlin
 
 ### Public Services  
 - [Anmeldung appointment finder](https://allaboutberlin.com/tools/appointment-finder) and [source code](https://github.com/nicbou/burgeramt-appointments-websockets)
+- [Berlin Auslaenderbehorde Termin Bot](https://github.com/yilmaznaslan/berlin-auslaenderbehorde-termin-bot)
 - [Berlin registered protests](https://github.com/Mamdasn/telegram-bot-protests-in-berlin)
 - [Berlin Service Termin](https://github.com/inverse/termin)
 - [berlin anmeldung scrapper](https://github.com/dgmora/berlin_anmeldung_scrapper)
