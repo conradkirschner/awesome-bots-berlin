@@ -16,6 +16,7 @@ A curated list of awesome Bots that help People in Berlin
 
 ### Jobs
 - [berlin-startup-jobs-analyzer](https://github.com/dstoianov/berlin-startup-jobs-analyzer)
+- [DRS bot](https://github.com/anapaulagomes/drs_bot) - courses available on Dahlem Research School
 
 ### Public Services  
 - [Anmeldung appointment finder](https://allaboutberlin.com/tools/appointment-finder) and [source code](https://github.com/nicbou/burgeramt-appointments-websockets)
