@@ -9,7 +9,8 @@ A curated list of awesome Bots that help People in Berlin
 - [flatcrawler](https://github.com/grandchild/flatcrawler)
 - [flathunter](https://github.com/flathunters/flathunter)
 - [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents)
-
+- [FlatBot](https://github.com/kine90/FlatBot)
+ 
 ### News
 - [berlinglish](https://github.com/viniciuskneves/berlinglish) - news from Berlin.de to Twitter
 
